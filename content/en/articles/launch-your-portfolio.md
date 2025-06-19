@@ -1,48 +1,118 @@
 ---
-title: Finally launch your portfolio
+title: Project Lab OOP2025
 date: 20/10/2023
-description: Aiming for perfectionism is a very good state of mind. On the other
-  hand, working until perfectionism is 100% can also be bad. Here are some tips
-  to help you get your portfolio off the ground.
+description: “Aplikasi Java berorientasi objek untuk mengelola aktivitas
+  check-in dan check-out secara efisien.”
 tags:
   - Portfolio
   - Development
   - Design
   - Productivity
-image: https://canvas.hrcd.fr/articles/launch-your-porfolio.jpg
+image: /articles/foto21.jpg
 readingTime: "5"
+ogImage:
+  props: {}
+schemaOrg: {}
+head:
+  script: []
+sitemap:
+  videos: []
+  images: []
+  lastmod: 2025-06-17T00:00:00.000Z
 ---
 
-## Introduction
+````md
+# 🔧 InNOut — Aplikasi Manajemen Modern
 
-Creating a portfolio as a development, design or tech professional is a journey punctuated by complex choices. One of the most prevalent of these dilemmas lies in the delicate balance between striving for perfection and the need to launch quickly. Explore with me the nuances of these contradictory perspectives.
+Sebuah aplikasi untuk manajemen data yang dibuat dengan presisi dan filosofi kode bersih.
 
-![preview](/articles/launch-your-porfolio.jpg)
+![Language: Java](https://img.shields.io/badge/Language-Java_21-007396?style=flat-square)
+![Framework: JavaFX](https://img.shields.io/badge/Framework-JavaFX-E86F00?style=flat-square)
+![Build: Gradle](https://img.shields.io/badge/Build-Gradle-02303A?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-### The aspiration to perfection: an unattainable ideal?
+---
 
-The traditional vision of artistic creation encourages us to pursue perfection from the outset. Every line of code, every element of design should converge towards absolute excellence. However, this dream of perfection can sometimes become a burden, a brake on progress. The relentless quest for perfection can paralyze the creative process, turning creation into an endless pursuit.
+## 🧠 Premis Proyek
 
-### The Perfectionism Trap: when the best becomes the enemy of the good
+> *InNOut* dikembangkan untuk menjawab pertanyaan penting:  
+> **"Bagaimana mengelola alur data kompleks dengan cara yang paling sederhana?"**  
+>  
+> Aplikasi ini menjadi studi kasus kami dalam menerapkan prinsip _Clean Architecture_ dan Pemrograman Berorientasi Objek (OOP), dengan fokus pada efisiensi, keterbacaan kode, dan skalabilitas jangka panjang.
 
-Perfectionism can turn into a subtle trap. Waiting for every detail to be impeccable can delay your portfolio indefinitely. This prolonged stalling can have implications for professional credibility, as the market often demands a fast, dynamic online presence.
+---
 
-### The bold proposal to launch quickly: iterate rather than perfect
+## 🚀 Fitur Utama
 
-The idea of launching quickly, even if the portfolio doesn't reach an immediate level of perfection, offers an alternative perspective. It's about recognizing that each iteration can be an improvement on the previous one. This approach encourages a constant iteration mentality, where each version becomes a learning opportunity.
+| 🔧 Fitur              | ✨ Deskripsi                                                                                       |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| 📊 **Dasbor Analitik**  | Menampilkan data secara visual dan ringkas untuk keputusan cepat.                               |
+| 🔄 **Manajemen Data**  | Antarmuka CRUD (Create, Read, Update, Delete) yang ringkas dan akurat.                          |
+| 🔍 **Pencarian Cepat** | Fitur pencarian cerdas yang menampilkan hasil hanya dalam milidetik.                            |
+| 💾 **Penyimpanan Lokal**| Menggunakan file JSON untuk menyimpan data secara aman dan fleksibel.                           |
 
-### Speed as a means of learning: create by doing
+---
 
-Launching quickly thus becomes a means of learning. Speed doesn't mean compromising on quality, but rather accepting that perfection may initially be unattainable. It's an invitation to learn by doing, to use each version of the portfolio as a testing ground.
+## 🛠 Cetak Biru Teknologi
 
-### The crucial importance of time: time efficiency and judicious management
+| Komponen           | Teknologi yang Digunakan |
+|--------------------|--------------------------|
+| Bahasa Pemrograman | Java 21                  |
+| Framework UI       | JavaFX                   |
+| Build Tool         | Gradle                   |
+| Data Handling      | Jackson (JSON Library)   |
+| Styling            | CSS                      |
+| Penyimpanan        | Berbasis File JSON       |
+| Pengujian          | JUnit                    |
+| Version Control    | Git                      |
+| Dokumentasi        | Markdown                 |
 
-Time plays a crucial role in this debate. Time efficiency, underlined by the perspective of speed, becomes an essential skill. Judicious time management is the key to maintaining momentum without compromising quality. Consciously choosing where to invest one's time becomes a strategic act.
+---
 
-### Total control vs. flexibility: navigating between the two extremes
+## ⚙ Cara Menjalankan Aplikasi
 
-Total control of the creative process offers a sense of autonomy and empowerment. However, it is vital not to confuse control with rigidity. Being open to market developments and new trends is just as essential as personal control. It's a delicate balance between autonomy and adaptability.
+Langkah-langkah untuk menjalankan *InNOut* di lokal:
 
-### The delicate balance: a continuous journey of discovery and adaptation
+```sh
+# 1. Clone repositori
+git clone https://github.com/SYECHYUSUF/InNOut.git
 
-Ultimately, portfolio creation is an ongoing journey. It's navigating this paradox with intention. It's finding a balance between the quest for excellence and the need to move quickly, knowing that each iteration is a progression towards an improved version of yourself. To create a portfolio is to embrace the paradox, to consciously choose between perfection and speed, and to accept that the path to excellence is a journey rather than a destination.
+# 2. Masuk ke direktori
+cd InNOut
+
+# 3. Jalankan dengan Gradle
+# Windows:
+.\gradlew run
+
+# macOS / Linux:
+./gradlew run
+````
+
+## 💡 Prinsip OOP yang Digunakan
+
+Aplikasi ini dibangun dengan fondasi kuat dari prinsip-prinsip Object-Oriented Programming:
+
+- **Encapsulation:** Objek sebagai kotak hitam yang hanya bisa diakses lewat method publik.
+- **Inheritance:** Penghindaran duplikasi lewat pewarisan antar kelas.
+- **Abstraction & Polymorphism:** Kode fleksibel dan reusable dengan interface & kelas abstrak.
+
+## 👥 Tim Pengembang
+
+Nama Peran GitHub :
+
+**Chandra Andaya** Lead Developer, OOP Architect @twelverakki
+
+**Raihan Ramadhan** UI/UX Designer, Frontend Developer @rainnfu
+
+**Moch Syech Yusuf M** (Ucup) QA & System Integration @SYECHYUSUF
+
+## 🌐 Temui Kami
+
+- 💻 GitHub Project: InNOut by SYECHYUSUF
+- 📸 Instagram (Tim): `@Chndr_andy`, `@rainnfu`, `@syechyusufm`
+
+## 🎓 Catatan Akhir
+
+> Proyek ini adalah bagian dari **Tugas Akhir Lab Pemrograman Berorientasi Objek (OOP) 2025** di Universitas Hasanuddin, Makassar — Prodi Sistem Informasi. Diharapkan bisa menjadi contoh penerapan desain sistem berbasis objek yang kuat, rapi, dan mudah dikembangkan.
+
+> ✨ Terima kasih telah membaca! Jangan lupa ⭐ project ini jika menurutmu bermanfaat.
