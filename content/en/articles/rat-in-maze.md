@@ -17,7 +17,7 @@ image: /articles/5.jpeg
 
 # RAT IN MAZE
 
-```markdown
+```md
 # Apa itu Algoritma Rat in a Maze?
 
 **Rat in a Maze** adalah salah satu masalah klasik dalam pemrograman dan algoritma pencarian jalur. Tujuan dari algoritma ini adalah untuk menemukan **semua jalur** yang memungkinkan dari **titik awal (biasanya kiri atas)** ke **tujuan akhir (biasanya kanan bawah)** dalam sebuah labirin dua dimensi yang diwakili oleh **matriks**.
@@ -36,7 +36,7 @@ Setiap sel dalam matriks bisa:
 
 maze = \[ \[1, 0, 0, 0], \[1, 1, 0, 1], \[0, 1, 0, 0], \[1, 1, 1, 1] ]
 
-````js
+````md
 
 **Tujuan**: Temukan semua jalur dari `(0, 0)` ke `(3, 3)`. Dalam contoh ini, salah satu solusi bisa berupa jalur `DDRDRR`.
 

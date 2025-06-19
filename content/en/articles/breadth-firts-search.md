@@ -18,7 +18,7 @@ image: /articles/4.jpeg
 
 # BREADTH FIRTS SEARCH
 
-```markdown
+```md
 # Apa itu Algoritma Breadth-First Search (BFS)?
 
 **Breadth-First Search (BFS)** adalah algoritma pencarian dan penelusuran pada struktur data **grafik** atau **pohon**. BFS menjelajahi simpul (node) grafik dengan memulai dari node awal, lalu mengunjungi semua tetangga terdekat terlebih dahulu sebelum bergerak ke level berikutnya.
@@ -66,7 +66,7 @@ A
 
 / B C / \ D E F
 
-````js
+````md
 
 **Tujuan**: Lakukan penelusuran BFS dari node `A`.
 

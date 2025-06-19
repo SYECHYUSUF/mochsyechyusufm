@@ -17,7 +17,7 @@ image: /articles/10.jpeg
 
 # ACTIVITY PROMBLEM SELECTION
 
-````markdown
+````md
 # 🗓️ Apa itu Activity Selection Problem?
 
 **Activity Selection Problem** adalah masalah optimisasi klasik dalam ilmu komputer. Tujuannya adalah untuk **memilih sebanyak mungkin aktivitas** dari himpunan yang diberikan **tanpa ada yang saling tumpang tindih**, dengan setiap aktivitas memiliki waktu mulai dan selesai.
@@ -96,7 +96,7 @@ print("Aktivitas yang dipilih:", selected)
 
 ## 🖥️ Implementasi JavaScript
 
-```javascript
+```md
 function activitySelection(start, finish) {
     const activities = start.map((s, i) => ({ start: s, finish: finish[i] }));
     activities.sort((a, b) => a.finish - b.finish);

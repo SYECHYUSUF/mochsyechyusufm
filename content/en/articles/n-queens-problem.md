@@ -17,7 +17,7 @@ image: /articles/7.jpeg
 
 # N QUEENS PROBLEM
 
-```markdown
+```md
 # Apa itu Masalah N-Queen?
 
 **Masalah N-Queen** adalah sebuah teka-teki klasik dalam ilmu komputer yang menanyakan:
@@ -63,7 +63,7 @@ Salah satu solusi untuk **N=4**:
 
 . Q . . . . . Q Q . . . . . Q .
 
-````js
+````md
 
 Ada **2 solusi fundamental** untuk N=4 (tanpa rotasi dan refleksi).
 
@@ -130,7 +130,7 @@ for sol in solutions:
 
 ## Implementasi JavaScript
 
-```javascript
+```md
 function solveNQueens(n) {
     const solutions = [];
 

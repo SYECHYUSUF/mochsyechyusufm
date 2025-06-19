@@ -51,7 +51,7 @@ Algoritma Dijkstra bekerja secara **rakus (greedy)**, artinya pada setiap langka
 
 Misalkan kita punya graf ini:
 
-```js
+```md
 A --(1)--> B --(3)--> D
 |           ^          ^
 (4)         |          |

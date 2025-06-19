@@ -16,7 +16,7 @@ image: /articles/3.jpeg
 
 # DEAPTH FIRST SEARCH (BFS)
 
-```markdown
+```md
 # Apa itu Algoritma Depth-First Search (DFS)?
 
 **Depth-First Search (DFS)** adalah algoritma untuk melintasi atau mencari elemen dalam struktur data seperti **pohon** atau **grafik**. DFS memulai penelusuran dari node akar (atau node yang dipilih) dan menjelajah sejauh mungkin di sepanjang setiap cabang sebelum melakukan *backtrack*.
@@ -67,13 +67,13 @@ DFS dapat diimplementasikan secara **rekursif** atau **iteratif menggunakan stac
 Grafik:
 ```
 
-```js
+```md
 A
 ```
 
 / B C / \ D E F
 
-````js
+````md
 
 **Tujuan**: Jelajahi graf menggunakan DFS dari node A.
 

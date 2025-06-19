@@ -78,7 +78,7 @@ Node dengan **in-degree 0** tidak memiliki prasyarat, sehingga bisa menjadi **ti
 
 A → B → D → E ↓ ↑ → C ──┘
 
-````js
+````md
 
 **Urutan Eksekusi**:
 

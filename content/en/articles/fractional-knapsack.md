@@ -17,7 +17,7 @@ title: Memahami Fractional Knapsack Problem
 
 # FRACTIONAL KNAPSACK
 
-````markdown
+````md
 # 🎒 Apa itu Fractional Knapsack Problem?
 
 **Fractional Knapsack Problem** adalah masalah optimisasi klasik yang menggunakan **algoritma greedy** untuk memilih item dengan **nilai maksimum** yang dapat dimasukkan ke dalam tas (knapsack) dengan kapasitas terbatas.
@@ -91,7 +91,7 @@ print("Nilai maksimum:", fractional_knapsack(values, weights, capacity))
 
 ## 🖥️ Implementasi JavaScript
 
-```javascript
+```md
 function fractionalKnapsack(values, weights, capacity) {
     const items = values.map((v, i) => ({
         ratio: v / weights[i],

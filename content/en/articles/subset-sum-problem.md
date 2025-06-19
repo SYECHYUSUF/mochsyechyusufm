@@ -17,7 +17,7 @@ image: /articles/6.jpeg
 
 # SUBSET SUM PROBLEM
 
-````markdown
+````md
 # Masalah Subset Sum: Apakah Ada Subset yang Jumlahnya Sama dengan Target?
 
 Masalah **Subset Sum** adalah salah satu masalah klasik dalam **ilmu komputer dan teori algoritma**, khususnya dalam kategori **NP-Complete Problem**. Tujuan dari masalah ini adalah untuk menentukan apakah terdapat **subset dari suatu himpunan bilangan bulat** yang **jumlah elemennya sama dengan nilai target tertentu**.

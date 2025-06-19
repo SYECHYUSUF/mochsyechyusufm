@@ -26,14 +26,7 @@ sitemap:
 
 Sebuah aplikasi untuk manajemen data yang dibuat dengan presisi dan filosofi kode bersih.
 
-![Language: Java](https://img.shields.io/badge/Language-Java_21-007396?style=flat-square)
-![Framework: JavaFX](https://img.shields.io/badge/Framework-JavaFX-E86F00?style=flat-square)
-![Build: Gradle](https://img.shields.io/badge/Build-Gradle-02303A?style=flat-square)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-
----
-
-## 🧠 Premis Proyek
+##🧠 Premis Proyek
 
 > *InNOut* dikembangkan untuk menjawab pertanyaan penting:  
 > **"Bagaimana mengelola alur data kompleks dengan cara yang paling sederhana?"**  

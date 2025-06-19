@@ -16,7 +16,7 @@ image: /articles/8.jpeg
 
 # HUFFMAN CODING
 
-````markdown
+````md
 # Apa itu Huffman Coding?
 
 **Huffman Coding** adalah algoritma kompresi data yang menggunakan pendekatan **greedy** untuk membuat **kode biner dengan panjang variabel**. Karakter yang lebih sering muncul diberi kode yang lebih pendek, dan karakter yang lebih jarang diberi kode yang lebih panjang.
@@ -126,7 +126,7 @@ print("Data tersandi:", encoded)
 
 ## 💻 Implementasi JavaScript
 
-```javascript
+```md
 class Node {
     constructor(char, freq) {
         this.char = char;
