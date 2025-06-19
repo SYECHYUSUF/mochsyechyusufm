@@ -12,7 +12,7 @@ export default defineAppConfig({
   },
   socials: {
     github: 'https://github.com/SYECHYUSUF',
-    twitter: 'https://twitter.com/',
+    twitter: 'https://x.com/Syechyusufm',
     linkedin: 'https://www.linkedin.com/in/moch-syech-yusuf-m-110392346',
     instagram: 'https://www.instagram.com/syechyusufm',
     spotify: 'https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn',
