@@ -15,7 +15,7 @@ export default defineAppConfig({
     twitter: 'https://twitter.com/',
     linkedin: 'https://www.linkedin.com/in/moch-syech-yusuf-m-110392346',
     instagram: 'https://www.instagram.com/syechyusufm',
-    spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+    spotify: 'https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn',
   },
   seo: {
     title: 'Canvas a Nuxt portfolio template',
