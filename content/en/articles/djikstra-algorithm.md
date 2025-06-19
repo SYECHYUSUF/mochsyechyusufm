@@ -8,13 +8,14 @@ head:
 sitemap:
   videos: []
   images: []
+  lastmod: 2025-06-13T00:00:00.000Z
 description: Selami dunia pencarian jalur terpendek dengan salah satu algoritma
   paling fundamental.
 title: Memahami Algoritma Dijkstra
 image: /articles/1.jpeg
+date: 19/06/2025
+readingTime: "10"
 ---
-
-## Memahami Algoritma Dijkstra: Menemukan Jalan Terpendek
 
 Algoritma Dijkstra, yang dinamai dari penemunya Edsger W. Dijkstra, adalah salah satu algoritma **pencarian jalur terpendek (shortest path algorithm)** yang paling terkenal dan banyak digunakan. Algoritma ini dirancang untuk menemukan jalur terpendek antara satu titik awal (disebut "sumber") ke semua titik lainnya dalam sebuah graf berbobot (weighted graph).
 
