@@ -4,11 +4,11 @@ export default defineAppConfig({
     available: true,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
+    name: 'Moch Syech Yusuf M',
+    job: 'Frontend Developer',
+    email: 'mochsyechyusufm@gmail.com',
+    phone: '(+62) 85342505228',
+    picture: '/pp.jpg',
   },
   socials: {
     github: 'https://github.com/HugoRCD',
