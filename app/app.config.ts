@@ -11,10 +11,10 @@ export default defineAppConfig({
     picture: '/pp.jpg',
   },
   socials: {
-    github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
+    github: 'https://github.com/SYECHYUSUF',
+    twitter: 'https://twitter.com/',
+    linkedin: 'https://www.linkedin.com/in/moch-syech-yusuf-m-110392346',
+    instagram: 'https://www.instagram.com/syechyusufm',
     spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
   },
   seo: {
